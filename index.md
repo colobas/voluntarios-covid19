@@ -9,5 +9,7 @@ Para fazer face à pandemia da COVID-19, os seguintes locais precisam de volunt�
 | x     | x         | x                 | x      | x        |
 
 
+<br>
+
 Caso precise de voluntários e queira adicionar um anúnio aqui,
 contacte-nos: [voluntarios.covid19.portugal@gmail.com](mailto:voluntarios.covid19.portugal@gmail.com)

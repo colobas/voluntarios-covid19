@@ -54,7 +54,33 @@
         element: 'table-container', 
         allow_download: true,
         csv_options: {separator: ',', delimiter: '"'},
-        datatables_options: {"paging": false},
+        datatables_options: {
+            "paging": false,
+            "language": {
+                "decimal":        "",
+                "emptyTable":     "Sem dados para mostrar.",
+                "info":           "Mostrando _START_ a _END_ de _TOTAL_ entradas",
+                "infoEmpty":      "Mostrando 0 a 0 de 0 entries",
+                "infoFiltered":   "(filtrado de um total de _MAX_ entradas)",
+                "infoPostFix":    "",
+                "thousands":      ",",
+                "lengthMenu":     "Mostrar entradas _MENU_",
+                "loadingRecords": "Carregando...",
+                "processing":     "Processando...",
+                "search":         "Pesquisar:",
+                "zeroRecords":    "Nenhuma entrada encontrada.",
+                "paginate": {
+                    "first":      "Primeiro",
+                    "last":       "Último",
+                    "next":       "Seguinte",
+                    "previous":   "Anterior"
+                },
+                "aria": {
+                    "sortAscending":  ": activar para ordenar coluna de forma ascendente",
+                    "sortDescending": ": activar para ordenar coluna de forma descendente"
+                }
+            }
+        },
         custom_formatting: [[4, format_link]]
       });
     </script>

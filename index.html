@@ -8,8 +8,11 @@
     <title>Voluntários COVID-19 Portugal</title>
 
     <!-- Bootstrap core CSS -->
+    <link href="css/custom.css" rel="stylesheet">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/dataTables.bootstrap.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -19,13 +22,19 @@
   </head>
 
   <body>
+    <div class="header">
+      <h2>Voluntários precisam-se!</h2>
+    </div>
     <div class="container">
-      <h2>Voluntários precisam-se! </h2>
-
-      <p>Para fazer face à pandemia da COVID-19, os seguintes locais precisam de voluntários</p>
-      <p>Caso precise de voluntários e queira adicionar um anúnio aqui,
-      contacte-nos: <a href="mailto:voluntarios.covid19.portugal@gmail.com">voluntarios.covid19.portugal@gmail.com</a></p>
-
+      <p style="text-align: center; font-size: 25px;">O objectivo é criar uma rede de entre-ajuda entre voluntários e IPSS para fazer face à pandemia COVID19.</p>
+      <br>
+      <p style="text-align: center; font-size: 25px;"> Os Estabelecimentos Residenciais Para Idosos (ERPI) poderão vir a precisar do apoio de voluntários externos à instituição para apoiar nesta fase.</p>
+      <br>
+      <h3>Informação<h3>
+        <ul>
+          <li><p>Para divulgação de iniciativas, basta preencher o <a href="https://forms.gle/LgkoauoTTQgFJHBe6">formulário</a> ou entrar em contacto via email para <a href="mailto:voluntarios.covid19.portugal@gmail.com">voluntarios.covid19.portugal@gmail.com</a>.</p></li>
+          <li><p>Caso queira inscrever-se como voluntário de forma indiferenciada por favor consulte: <a href="https://unitate.typeform.com/to/aNoBPe">link</a>.</p></li>
+        </ul>
 
       <div id='table-container'></div>
       </div><!-- /.container -->
@@ -51,7 +60,7 @@
 
       CsvToHtmlTable.init({
         csv_path: 'data/listings.csv',
-        element: 'table-container', 
+        element: 'table-container',
         allow_download: true,
         csv_options: {separator: ',', delimiter: '"'},
         datatables_options: {

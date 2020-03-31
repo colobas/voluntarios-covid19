@@ -55,8 +55,8 @@ DePaul IHS
     font-style: normal;
 }
 
-    
-body { 
+
+body {
   font: 18px/1.3em 'ColaborateThinRegular', sans-serif;
 }
 
@@ -66,10 +66,19 @@ h1 {
   color: #827E7E;
 }
 
+strong{
+ font-weight: bold;
+}
+
 h2 {
-  font: 22px/1em 'GibsonBold', serif;
   text-transform: uppercase;
   color: #827E7E;
+  font-size: 40px !important;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
 }
 
 #logo {
@@ -102,4 +111,19 @@ h2 {
   float: left;
   margin-right: 8px;
   opacity: 0.7;
+}
+
+.header {
+  /* letras */
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  color: white;
+
+  background-color: #4169E1;
+
+  height: 200px;
+
+  padding: 60px;
+  margin: auto;
+  margin-bottom: 50px;
 }

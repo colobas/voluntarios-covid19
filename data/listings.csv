@@ -1,5 +1,4 @@
-local,descricao,voluntarios,email,telefone
-x, x, x, x, x
-x, x, x, x, x
-x, x, x, x, x
-x, x, x, x, x
+Localidade,Concelho,Designação,Urgência,Voluntários,email,telefone
+x, x, x, x, x, x, x
+x, x, x, x, x, x, x
+x, x, x, x, x, x, x

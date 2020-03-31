@@ -65,7 +65,7 @@
     <script type="text/javascript">
       function format_link(link){
         if (link)
-          return "<a href='" + link + "' target='_blank'>" + link + "</a>";
+          return "<a href='mailto:" + link + "' target='_blank'>" + link + "</a>";
         else
           return "";
       }
@@ -102,7 +102,7 @@
                 }
             }
         },
-        custom_formatting: [[7, format_link]]
+        custom_formatting: [[6, format_link]]
       });
     </script>
   </body>

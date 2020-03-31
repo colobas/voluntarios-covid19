@@ -96,8 +96,9 @@ h2 {
   border-radius: 5px;
 }
 
-th { font-size: 12px; }
-td { font-size: 11px; }
+.table-container {
+  font-size: 12px;
+}
 
 .info h4 {
   margin: 0 0 5px;

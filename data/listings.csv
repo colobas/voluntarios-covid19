@@ -1,4 +1,4 @@
-Localidade,Concelho,Instituição,Urgência ,Voluntários ,Necessidades,Email,Telefone
+Localidade,Concelho,Instituição,Urgência ,Voluntários ,Especialidades,Email,Telefone
 Aldeia viçosa - Guarda,Guarda,Associação de melhoramentos de aldeia viçosa,Média,1-5,"Enfermagem, Apoio e Higiene Pessoal, Apoio Psicológico",amav.financeiro@sapo.pt,962488947
 Almaceda,Castelo branco,Centro Social Paroquial de Almaceda,Alta,1-5,Enfermagem,centrodealmaceda@gmail.com,272726239
 Mós,Torre de Moncorvo,Associação de Bem Fazer de Mós,Alta,1-5,"Limpeza, Apoio e Higiene Pessoal, Apoio Cultural / Ocupacional",assc.bem.fazer@sapo.pt,938896293 / 279939257
@@ -27,3 +27,14 @@ Santarém,Santarém,APPACDM de Santarém,Média,1-5,"Enfermagem, Equipamento de 
 EREIRA,CARTAXO,CENTRO SOCIAL PAROQUIAL DA EREIRA,Alta,,Equipamento de Proteção Individual,centro.paroq.ereira@mail.telepac.pt,243719138/961357748
 Vila Franca de Xira,Vila Franca de Xira,Unidade de Cuidados Continuados Integrados da Associação para o Bem Estar Infantil da Freguesia de Vila Franca de Xira ,Média,1-5,"Limpeza, Enfermagem, Apoio e Higiene Pessoal, Equipamento de Proteção Individual, Equipamento de incontinência e higiene pessoal.",unidade.saude@abeivfxira.pt,263285000
 Vila Nova de Tazem,Gouveia,Centro Social Paroquial Nossa Senhora da Assunção ,Alta,1-5,"Limpeza, Apoio e Higiene Pessoal, Equipamento de Proteção Individual",cspnsassunção@gmail.com,238486150
+peva,Almeida,Associação dos Amigos de Peva,Média,6-10,Apoio e Higiene Pessoal,a.m.peva@hotmail.com,271448528
+Algueirão,Sintra,O Castelo-Casa de Repouso e Recuperação,Média,,Equipamento de Proteção Individual,castelocasaderepous@sapo.pt,219209101
+Tentúgal ,Montemor-o-velho,Santa casa da misericórdia de Tentúgal,Média,1-5,"Limpeza, Apoio e Higiene Pessoal, Equipamento de Proteção Individual",asocial.misericordia.tentugal@gmail.com,964044879
+Coimbra,Coimbra,SCM de Coimbra,Média,6-10,"Limpeza, Cozinha, Apoio e Higiene Pessoal, Equipamento de Proteção Individual",joel.araujo@misericordiacoimbra.pt,919719134
+Camarate,Loures,Centro Social e Paroquial Nuno Álvares Pereira de São Tiago de Camarate,Média,1-5,Buscar donativos ao Banco Alimentar e respetiva distribuição às famílias,centrosocialnap@gmail.com,936179931
+Melo,Gouveia,Associação de beneficência Cultural e Recreativa de Melo,Média,1-5,"Limpeza, Enfermagem, Apoio e Higiene Pessoal, Equipamento de Proteção Individual",associacaomelo@gmail.com,238748300
+SABROSA/ALIJÓ,SABROSA/ALIJÓ,APPACDM DE VILA REAL - SABROSA,Baixa,1-5,"Enfermagem, Equipamento de Proteção Individual",appacdmsabrosa@hotmail.com,933259908
+Lisboa,Lisboa,Associação de Apoio Social da Portugal Telecom,Média,1-5,"Enfermagem, Apoio e Higiene Pessoal, Equipamento de Proteção Individual",sofia.v.selada@aaspt.pt,917194641
+MELIDES,GRÂNDOLA,CASA DO POVO DE MELIDES,Média,1-5,"Limpeza, Enfermagem, Cozinha, Apoio e Higiene Pessoal, Apoio Cultural / Ocupacional, Apoio Psicológico, Equipamento de Proteção Individual",casadopovo.melides@gmail.com,269979188 ou 269907111
+Terena,Alandroal,APIT,Alta,6-10,"Limpeza, Enfermagem, Cozinha, Apoio e Higiene Pessoal, Apoio Psicológico, Equipamento de Proteção Individual",apiterena@sapo.pt,965353740
+Alquerubim,Albergaria-a-Velha,Associação de Solidariedade Social de Alquerubim,Alta,,"Equipamento de Proteção Individual, Gel alcoolico desifetante",assa.alquerubim@gmail.com; luisduarteoliveira@gmail.com,967373086

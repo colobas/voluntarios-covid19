@@ -1,4 +1,4 @@
-Localidade,Concelho,Instituição,Urgência ,Voluntários ,Especialidades,Email,Telefone
+Localidade,Concelho,Instituição,Urgência ,Voluntários ,Necessidades,Email,Telefone
 Aldeia viçosa - Guarda,Guarda,Associação de melhoramentos de aldeia viçosa,Média,1-5,"Enfermagem, Apoio e Higiene Pessoal, Apoio Psicológico",amav.financeiro@sapo.pt,962488947
 Almaceda,Castelo branco,Centro Social Paroquial de Almaceda,Alta,1-5,Enfermagem,centrodealmaceda@gmail.com,272726239
 Mós,Torre de Moncorvo,Associação de Bem Fazer de Mós,Alta,1-5,"Limpeza, Apoio e Higiene Pessoal, Apoio Cultural / Ocupacional",assc.bem.fazer@sapo.pt,938896293 / 279939257
@@ -19,8 +19,11 @@ Santiago do Cacém,santiago do Cacém,CERCISIAGO,Baixa,1-5,Apoio Cultural / Ocup
 LOURIÇAL DO CAMPO,CASTELO BRANCO,CENTRO DE DIA E SOCIAL DE SÃO BENTO,Baixa,6-10,"Limpeza, Enfermagem, Cozinha, Apoio e Higiene Pessoal, Apoio Cultural / Ocupacional, Apoio Psicológico",centrodesbento@hotmail.com,969639006
 Olhalvo ,Alenquer,"Casa de Repouso Quinta da Relva, Lda",Alta,1-5,"Limpeza, Cozinha, Apoio e Higiene Pessoal",adm.qdrelva@gmail.com,965839657
 Vila Cova à Coelheira,Vila Nova de Paiva,Associação de Solidariedade e Cultural Cruz de Malta,Alta,,Equipamento de Proteção Individual,asccm@sapo.pt,935242210
-Penalva - sto António da Charneca ,Barreiro,CERCIMB,Alta,,Equipamento de Proteção Individual,cercimb.sede@gmail.com,968117155
 Nespereira,Gouveia,Associação dos Amigos de Nespereira,Baixa,1-5,"Limpeza, Cozinha, Apoio e Higiene Pessoal, Apoio Cultural / Ocupacional",a.a.nespereira@hotmail.com,238494015
 Penalva - Stº António da Charneca,Barreiro,CERCIMB,Alta,,Equipamento de Proteção Individual,cercimb.sede@gmail.com,968117155
 Pinelo,Vimioso,Centro Social Paroquial Stª Eulália,Média,1-5,"Limpeza, Enfermagem, Cozinha, Apoio e Higiene Pessoal, Equipamento de Proteção Individual",c.social.pinelo@hotmail.com,968264394
 peva,Almeida,Associação dos Amigos de Peva,Média,6-10,Apoio e Higiene Pessoal,a.m.peva@hotmail.com,271448528
+Santarém,Santarém,APPACDM de Santarém,Média,1-5,"Enfermagem, Equipamento de Proteção Individual, Médicos",appacdm.santarem.ar@gmail.com,964855561
+EREIRA,CARTAXO,CENTRO SOCIAL PAROQUIAL DA EREIRA,Alta,,Equipamento de Proteção Individual,centro.paroq.ereira@mail.telepac.pt,243719138/961357748
+Vila Franca de Xira,Vila Franca de Xira,Unidade de Cuidados Continuados Integrados da Associação para o Bem Estar Infantil da Freguesia de Vila Franca de Xira ,Média,1-5,"Limpeza, Enfermagem, Apoio e Higiene Pessoal, Equipamento de Proteção Individual, Equipamento de incontinência e higiene pessoal.",unidade.saude@abeivfxira.pt,263285000
+Vila Nova de Tazem,Gouveia,Centro Social Paroquial Nossa Senhora da Assunção ,Alta,1-5,"Limpeza, Apoio e Higiene Pessoal, Equipamento de Proteção Individual",cspnsassunção@gmail.com,238486150

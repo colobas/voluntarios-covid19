@@ -1,2 +1,26 @@
-Localidade,Concelho,Designação,Urgência,Voluntários,Especialidade,Email,Telefone
-"Examplo","Examplo","Exemplo","Alta","6-10","Limpeza;Enfermagem;Cozinha","exemplo@exemplo.pt","219999999"
+Localidade,Concelho,Instituição,Urgência ,Voluntários ,Especialidades,Email,Telefone
+Aldeia viçosa - Guarda,Guarda,Associação de melhoramentos de aldeia viçosa,Média,1-5,"Enfermagem, Apoio e Higiene Pessoal, Apoio Psicológico",amav.financeiro@sapo.pt,962488947
+Almaceda,Castelo branco,Centro Social Paroquial de Almaceda,Alta,1-5,Enfermagem,centrodealmaceda@gmail.com,272726239
+Mós,Torre de Moncorvo,Associação de Bem Fazer de Mós,Alta,1-5,"Limpeza, Apoio e Higiene Pessoal, Apoio Cultural / Ocupacional",assc.bem.fazer@sapo.pt,938896293 / 279939257
+Quintinha - Cotovia,Sesimbra,"As Tias - Lar 3ª Idade, Lda",Média,6-10,"Limpeza, Enfermagem, Cozinha, Apoio e Higiene Pessoal, Apoio Psicológico",astias.lardaterceiraidade@gmail.com,961590878
+VAle de Azares,Celorico da Beira,Associação de Melhoramentos Cultural Desportiva e Recreativa de Vale de Azares ,Alta,6-10,"Limpeza, Cozinha, Apoio Domiciliario",amcdrvaledeazares@hotmail.com,962938447
+Monte Redondo,Leiria,Centro Social Paroquial Nossa Senhora da Piedade,Média,1-5,"Limpeza, Enfermagem, Apoio Psicológico",centrosrapiedademredondo@gmail.com,244685764
+Milheirós de Poiares,Santa Maria da Feira,Centro Social Dr. Crispim,Média,6-10,"Limpeza, Enfermagem, Apoio e Higiene Pessoal, Apoio Cultural / Ocupacional, Apoio Psicológico",contabilidade.drcrispim@gmail.com,918404573
+Ereira,Montemor-o-Velho,Associação Cultural Desportiva e Social da Ereira,Média,1-5,"Cozinha, Apoio e Higiene Pessoal",acdsereira@gmail.com,239676370
+Canelas,Peso da Régua,Associação de Assistência Nossa Senhora das Candeias,Baixa,1-5,"Cozinha, Apoio Psicológico",dir.tecnica.aansc@gmail.com,912209553
+Estremoz,Estremoz,Cerciestremoz,Baixa,6-10,"Limpeza, Enfermagem, Apoio e Higiene Pessoal, Apoio Cultural / Ocupacional",cerciestremoz@gmail.com,934552020
+Braga,Braga,"ARPIVE - Associação de Reformados, Pensionistas e Idosos do Vale D'Este",Média,1-5,"Apoio e Higiene Pessoal, Apoio Cultural / Ocupacional",arvebraga@gmail.com,968429090
+Apúlia,Esposende,ASCRA,Média,1-5,Enfermagem,ascra.ascra@gmail.com,253961727
+Vidais ,Caldas da Rainha,Centro Social Paroquial Nª Sra. Piedade de Vidais,Baixa,1-5,Apoio Psicológico,centrovidais@gmail.com,262930086
+Lisboa,Lisboa,Sol- Associação de Apoio a Crianças com VIH,Baixa,1-5,Voluntarios para irem buscar as refeiçoes diariamente ,associacaosol@netcabo.pt,918607454
+Moçarria,Santarém,Centro Social da Freguesia de Moçarria,,1-5,"Cozinha, Apoio e Higiene Pessoal",cdmocarria@gmail.com,964953354
+Évora,Évora,Centro Social Nossa Senhora Auxiliadora,Baixa,1-5,Apoio e Higiene Pessoal,csnsa.claudiasimoes@gmail.com,936252758
+Santiago do Cacém,santiago do Cacém,CERCISIAGO,Baixa,1-5,Apoio Cultural / Ocupacional,cercisiago@gmail.com,965551184
+LOURIÇAL DO CAMPO,CASTELO BRANCO,CENTRO DE DIA E SOCIAL DE SÃO BENTO,Baixa,6-10,"Limpeza, Enfermagem, Cozinha, Apoio e Higiene Pessoal, Apoio Cultural / Ocupacional, Apoio Psicológico",centrodesbento@hotmail.com,969639006
+Olhalvo ,Alenquer,"Casa de Repouso Quinta da Relva, Lda",Alta,1-5,"Limpeza, Cozinha, Apoio e Higiene Pessoal",adm.qdrelva@gmail.com,965839657
+Vila Cova à Coelheira,Vila Nova de Paiva,Associação de Solidariedade e Cultural Cruz de Malta,Alta,,Equipamento de Proteção Individual,asccm@sapo.pt,935242210
+Penalva - sto António da Charneca ,Barreiro,CERCIMB,Alta,,Equipamento de Proteção Individual,cercimb.sede@gmail.com,968117155
+Nespereira,Gouveia,Associação dos Amigos de Nespereira,Baixa,1-5,"Limpeza, Cozinha, Apoio e Higiene Pessoal, Apoio Cultural / Ocupacional",a.a.nespereira@hotmail.com,238494015
+Penalva - Stº António da Charneca,Barreiro,CERCIMB,Alta,,Equipamento de Proteção Individual,cercimb.sede@gmail.com,968117155
+Pinelo,Vimioso,Centro Social Paroquial Stª Eulália,Média,1-5,"Limpeza, Enfermagem, Cozinha, Apoio e Higiene Pessoal, Equipamento de Proteção Individual",c.social.pinelo@hotmail.com,968264394
+peva,Almeida,Associação dos Amigos de Peva,Média,6-10,Apoio e Higiene Pessoal,a.m.peva@hotmail.com,271448528

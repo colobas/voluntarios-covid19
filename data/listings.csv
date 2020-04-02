@@ -1,4 +1,4 @@
-Localidade,Concelho,Instituição,Urgência ,Voluntários ,Especialidades,Email,Telefone
+Localidade,Concelho,Instituição,Urgência ,Voluntários ,Necessidades,Email,Telefone
 Aldeia viçosa - Guarda,Guarda,Associação de melhoramentos de aldeia viçosa,Média,1-5,"Enfermagem, Apoio e Higiene Pessoal, Apoio Psicológico",amav.financeiro@sapo.pt,962488947
 Almaceda,Castelo branco,Centro Social Paroquial de Almaceda,Alta,1-5,Enfermagem,centrodealmaceda@gmail.com,272726239
 Mós,Torre de Moncorvo,Associação de Bem Fazer de Mós,Alta,1-5,"Limpeza, Apoio e Higiene Pessoal, Apoio Cultural / Ocupacional",assc.bem.fazer@sapo.pt,938896293 / 279939257
@@ -27,7 +27,6 @@ Santarém,Santarém,APPACDM de Santarém,Média,1-5,"Enfermagem, Equipamento de 
 EREIRA,CARTAXO,CENTRO SOCIAL PAROQUIAL DA EREIRA,Alta,,Equipamento de Proteção Individual,centro.paroq.ereira@mail.telepac.pt,243719138/961357748
 Vila Franca de Xira,Vila Franca de Xira,Unidade de Cuidados Continuados Integrados da Associação para o Bem Estar Infantil da Freguesia de Vila Franca de Xira ,Média,1-5,"Limpeza, Enfermagem, Apoio e Higiene Pessoal, Equipamento de Proteção Individual, Equipamento de incontinência e higiene pessoal.",unidade.saude@abeivfxira.pt,263285000
 Vila Nova de Tazem,Gouveia,Centro Social Paroquial Nossa Senhora da Assunção ,Alta,1-5,"Limpeza, Apoio e Higiene Pessoal, Equipamento de Proteção Individual",cspnsassunção@gmail.com,238486150
-peva,Almeida,Associação dos Amigos de Peva,Média,6-10,Apoio e Higiene Pessoal,a.m.peva@hotmail.com,271448528
 Algueirão,Sintra,O Castelo-Casa de Repouso e Recuperação,Média,,Equipamento de Proteção Individual,castelocasaderepous@sapo.pt,219209101
 Tentúgal ,Montemor-o-velho,Santa casa da misericórdia de Tentúgal,Média,1-5,"Limpeza, Apoio e Higiene Pessoal, Equipamento de Proteção Individual",asocial.misericordia.tentugal@gmail.com,964044879
 Coimbra,Coimbra,SCM de Coimbra,Média,6-10,"Limpeza, Cozinha, Apoio e Higiene Pessoal, Equipamento de Proteção Individual",joel.araujo@misericordiacoimbra.pt,919719134
@@ -86,3 +85,7 @@ Lorvão,Penacova,CENTRO SOCIAL PAROQUIAL DE LORVÃO,Média,,Equipamento de Prote
 Pedrógão Pequeno,Sertã,Centro Social Nossa Senhora Da Confiança,Baixa,1-5,"Equipamento de Proteção Individual, Distribuição de refeições nos domicílios ",c.s.confianca@gmail.com,968990126
 Lisboa,Lisboa,centro social e paroquial da ameixoeira,Alta,1-5,"Limpeza, Enfermagem, Apoio e Higiene Pessoal, Apoio Cultural / Ocupacional, Apoio Psicológico, Equipamento de Proteção Individual, distribuição de refeições para os utentes a banco alimentar",cspameixoeira@hotmail.com,912469128
 Évora,Évora,Cercidiana,Baixa,1-5,"Apoio e Higiene Pessoal, Apoio Cultural / Ocupacional, Equipamento de Proteção Individual",cercidianadireccao@gmail.com,266759530
+Peraboa,Covilhã,Centro social do divino espírito Santo de Peraboa,Média,6-10,"Limpeza, Enfermagem, Cozinha, Apoio e Higiene Pessoal, Apoio Cultural / Ocupacional, Apoio Psicológico, Equipamento de Proteção Individual",csocialdesanto@gmail.com,925912651
+Parceiros,Leiria,Associação de Bem Estar dos Parceiros,Baixa,1-5,"Cozinha, Equipamento de Proteção Individual",contabilidade@abep.pt,244843210
+Beja,Beja,Cercibeja,Média,,"Equipamento de Proteção Individual, Jogos lúdicos",luis.vieira@cercibeja.org.pt,961382709
+Chiqueda,Alcobaça,Residência Sénior O Baloiço,Baixa,1-5,"Limpeza, Apoio e Higiene Pessoal",direcaotecnica.eden@gmail.com,966166290

@@ -1,4 +1,4 @@
-Localidade,Concelho,Instituição,Urgência ,Voluntários ,Necessidades,Primeiro e Último Nome,Email,Telefone
+Localidade,Concelho,Instituição,Urgência ,Número de Voluntários Necessários,Necessidades,Primeiro e Último Nome,Mail,Telefone
 Aldeia viçosa - Guarda,Guarda,Associação de melhoramentos de aldeia viçosa,"Enfermagem, Apoio e Higiene Pessoal, Apoio Psicológico",1-5,Média,Sandra Santos,amav.financeiro@sapo.pt,962488947
 Almaceda,Castelo branco,Centro Social Paroquial de Almaceda,Enfermagem,1-5,Alta,Ana Ladeira,centrodealmaceda@gmail.com,272726239
 Mós,Torre de Moncorvo,Associação de Bem Fazer de Mós,"Limpeza, Apoio e Higiene Pessoal, Apoio Cultural / Ocupacional",1-5,Alta,Teresa Ramos,assc.bem.fazer@sapo.pt,938896293 / 279939257
@@ -99,3 +99,10 @@ Quinta da Princesa - Cruz de Pau,Seixal,Associação de Reformados Idosos da Fre
 Vila das Aves,Santo Tirso,Lar Familiar da Tranquilidade,Equipamento de Proteção Individual,,Média,Cristina Paraty,direccao.lar@paroquiaaves.pt,252942031
 Aldeia da Mata,Crato,Lar de s. António ,"Limpeza, Apoio e Higiene Pessoal, Equipamento de Proteção Individual",1-5,Baixa,Cidália Amieiro ,camieiro@gmail.com,969362852
 Lisboa,Lisboa,União dos Pensionistas da Previdência e Segurança Social,"Limpeza, Cozinha, Apoio e Higiene Pessoal, Equipamento de Proteção Individual",1-5,Média,Lídia Oliveira,a.reformados.uppss@gmail.com,961503940
+Marvila,Lisboa,Associação Assistência Social Evengélica,Apoio e Higiene Pessoal,1-5,Baixa,Carla Silva,carlasilva@ase.pt,962444155
+Folgosa do Salvador,"Santiago, Seia",Santa Casa da Misericórdia de Seia,"Limpeza, Enfermagem, Cozinha, Apoio e Higiene Pessoal, Equipamento de Proteção Individual",6-10,Baixa,Cláudia Lopes,claudialopes@misericordiadeseia.pt,961539022
+Portimão,Portimão,Lar Esperança,"Limpeza, Apoio e Higiene Pessoal, Equipamento de Proteção Individual",1-5,Baixa,Abigail Araújo,laresperancap@gmail.com,938565134
+BRAGA,BRAGA,CENTRO CULTURAL E SOCIAL DE SANTO ADRIAO,Equipamento de Proteção Individual,,Média,HELGA SOUSA,geral@santoadriao.com,963271117
+Meleças,Sintra,Urpitma,"Apoio e Higiene Pessoal, Apoio Psicológico, Equipamento de Proteção Individual",1-5,Média,Inês Santos,ines.santos@urpitma.pt,219179050
+Evoramonte,Estremoz,Misericordia,"Apoio e Higiene Pessoal, Equipamento de Proteção Individual",1-5,Média,Manuel Ribeiro,scmevoramonte@gmail.com,962683842
+Fornos de Algodres,Fornos de Algodres,Irmandade da Santa Casa da Misericórdia de Fornos de Algodres,Equipamento de Proteção Individual,,Alta,Mauro Galvão,dts.iscmfa@gmail.com,966672112
